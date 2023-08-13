@@ -1,0 +1,7 @@
+2023/08/13 23:22:45 [emerg] 17284#628: unexpected "}" in D:\code\ssmSecurity\nginx-1.24.0/conf/nginx.conf:50
+2023/08/13 23:22:53 [emerg] 12164#2352: unexpected "}" in D:\code\ssmSecurity\nginx-1.24.0/conf/nginx.conf:50
+2023/08/13 23:23:32 [emerg] 4596#3712: unexpected "}" in D:\code\ssmSecurity\nginx-1.24.0/conf/nginx.conf:50
+2023/08/13 23:25:25 [emerg] 15144#17324: unexpected "}" in D:\code\ssmSecurity\nginx-1.24.0/conf/nginx.conf:45
+2023/08/13 23:26:34 [notice] 6012#16440: signal process started
+2023/08/13 23:26:34 [error] 6012#16440: CreateFile() "D:\code\ssmSecurity\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/13 23:29:16 [notice] 7636#6080: signal process started
